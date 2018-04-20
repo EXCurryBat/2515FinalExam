@@ -1,0 +1,4 @@
+Run the program from final.py in the main project directory.
+Enter id and password to login.
+Example student: (A00000001, password)
+Example admin: (A00000000, password)

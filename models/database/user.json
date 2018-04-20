@@ -1,9 +1,16 @@
 {
-  "A00000001": {
-    "type": "student",
-    "id": "A00000001",
-    "password": "password",
-    "name": "John",
-    "term": "3"
-  }
+    "A00000001": {
+        "type": "student",
+        "id": "A00000001",
+        "password": "password",
+        "name": "John",
+        "term": "3",
+        "electives": []
+    },
+    "A00000000": {
+        "type": "admin",
+        "id": "A00000000",
+        "password": "password",
+        "name": "Rob"
+    }
 }

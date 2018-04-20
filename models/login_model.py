@@ -12,7 +12,6 @@ class LoginModel():
             json_str = json.load(f)
             for id, info in json_str.items():
                 self.user[id] = info
-            return
 
     def add_user(self):
         pass

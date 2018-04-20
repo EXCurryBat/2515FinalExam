@@ -1,0 +1,30 @@
+{
+    "ACIT3650": {
+        "name": "ACIT 3650 Web and Mobile Application Development",
+        "description": "This course serves as an introduction to cross-platform mobile and web application development tools. Students design, develop, and publish platform independent mobile solutions using a current mobile application development framework. Topics include native, hybrid and web based mobile technologies; development tools, IDEs, and frameworks; mobile components; style and touch events; UI and API communication. The course is taught using the popular React framework.",
+        "term": "3",
+        "time": "AM",
+        "students": []
+    },
+    "ACIT3895": {
+        "name": "ACIT 3895 Advanced Topics in Enterprise Software",
+        "description": "This term the topic will be: Data Structures and Algorithms in Java. The course begins with an introduction to Java for programmers, followed by an introduction to data structure and algorithmic techniques that are frequently used by developers to solve practical by complex problems. Different classes of algorithms are considered, such a pattern-matching and parsing, dynamic programming, greedy algorithms, divide-and-conquer, and graph algorithms. Students learn how to incorporate existing algorithms into their programs, and to develop their customized algorithms to solve specialized problems.",
+        "term": "3",
+        "time": "AM",
+        "students": []
+    },
+    "ACIT3475": {
+        "name": "ACIT 3475 Web Server Administration",
+        "description": "This course introduces students to the deployment and operations of web applications. Students implement an existing application into a web stack including web servers, databases and application servers, and will improve the web stack throughout the course. Topics include: Web Server Management, Application Servers, Load Balancing, Caching, Performance Measurement, Reverse Proxies, TLS/SSL Security, Authentication Mechanisms, Centralized Logging.",
+        "term": "3",
+        "time": "PM",
+        "students": []
+    },
+    "ACIT3645": {
+        "name": "ACIT 3645 Web Content Management Systems",
+        "description": "Employers, agencies, and end users are increasingly asking for web developers with CMS experience to create custom websites, which can be maintained daily by clients, without the assistance of web developers. This course will provide students the opportunity to learn best practices for developing customized dynamic WordPress based websites. Learners will gain an understanding of what WordPress is, as well as when and how to use it. The course includes an introduction to the PHP language, as well as a deep dive into the WordPress templating language and template hierarchy. The course considers website functionality that is required for ecommerce, such as shopping cart capability and payment gateways (e.g.: PayPal / Stripe / Alipay).",
+        "term": "3",
+        "time": "PM",
+        "students": []
+    }
+}

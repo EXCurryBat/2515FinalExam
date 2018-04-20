@@ -18,12 +18,14 @@ class StudentView():
         self.bot_frame = Frame(self.sub)
         self.right_frame = Frame(self.sub)
         self.bot_right_frame = Frame(self.sub)
+        self.description_frame = Frame(self.sub)
 
         self.top_frame.grid(row=0,column=0, padx=30, pady=10)
         self.mid_frame.grid(row=1,column=0, padx=30, pady=10)
         self.bot_frame.grid(row=2,column=0, padx=30, pady=10)
         self.right_frame.grid(row=0,column=1,rowspan=2, padx=30,pady=10)
         self.bot_right_frame.grid(row=3, column=1,padx=30,pady=10)
+        self.description_frame.grid(row=0, column=2,rowspan=3, padx=30, pady=10)
 
         # widgets
         self.stu_id = Label(self.top_frame, text='')
@@ -58,6 +60,11 @@ class StudentView():
 
         self.add_button = Button(self.bot_right_frame, text='Add', width=10)
         self.add_button.pack()
+
+        # self.elective_name = Label(self.description_frame, text='', width=30)
+        # self.elective_description = Label(self.description_frame, text='', width=30)
+        # self.elective_name.grid(row=0, padx=30, pady=10)
+        # self.elective_description.grid(row=1, rowspan=2, padx=30, pady=10)
 
 
     def unpack(self):
