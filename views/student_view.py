@@ -61,4 +61,4 @@ class StudentView():
 
 
     def unpack(self):
-        pass
+        self.sub.pack_forget()
