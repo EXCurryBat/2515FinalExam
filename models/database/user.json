@@ -1,0 +1,9 @@
+{
+  "A00000001": {
+    "type": "student",
+    "id": "A00000001",
+    "password": "password",
+    "name": "John",
+    "term": "3"
+  }
+}
